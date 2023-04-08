@@ -1,2 +1,2 @@
-# R_basics
-This is a repository for the final proyect in R basics done with my colleges Valeria Levano, Andree Mavila, [Cristian Serrano](https://github.com/cristiansear) and Juan Carlos Perez.
+# R_gender
+This is a repository for the final proyect in R basics done with my colleges Valeria Levano, Christian Serrano, Stephy Riega and Juan Carlos Perez.
